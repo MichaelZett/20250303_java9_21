@@ -1,11 +1,7 @@
 package de.zettsystems.java9_10.localtypeinf;
 
 import java.io.ByteArrayOutputStream;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.counting;
@@ -56,7 +52,7 @@ public class LocalTypeInference {
         System.out.println("Strings are equal: " + resultString.equals("JAVA, KOTLIN"));
     }
 
-    private static List<Customer> executeQuery(String query) {
+    static List<Customer> executeQuery(String query) {
         return query.equals("query") ? List.of(new Customer()) : Collections.emptyList();
     }
 
