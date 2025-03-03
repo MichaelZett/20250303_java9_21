@@ -4,7 +4,7 @@
     
     <parent>
         <groupId>de.zettsystems</groupId>
-        <artifactId>module_exercise</artifactId>
+        <artifactId>03_modules_exercise</artifactId>
         <version>0.0.1</version>
     </parent>
 	
