@@ -1,4 +1,4 @@
-package de.zettsystems.greeting;
+package de.zettsystems.hello;
 
 public class HelloSayer {
     public void sayHello() {

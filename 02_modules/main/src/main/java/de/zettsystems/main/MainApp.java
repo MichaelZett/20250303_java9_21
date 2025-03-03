@@ -1,7 +1,7 @@
 package de.zettsystems.main;
 
+import de.zettsystems.hello.HelloSayer;
 import de.zettsystems.legacy.UseMeFromAModule;
-import de.zettsystems.greeting.HelloSayer;
 
 //import de.zettsystems.goodbye.GoodbyeSayer;
 
