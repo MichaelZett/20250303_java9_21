@@ -16,7 +16,7 @@
         <module>04_java9_13</module>
         <module>05_java14_17</module>
         <module>06_java18_21</module>
-        <module>08_openrewrite</module>
+        <module>09_openrewrite</module>
     </modules>
 
     <properties>
